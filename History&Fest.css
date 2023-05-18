@@ -1,0 +1,97 @@
+body {
+	font-family: montserrat;
+    background-color: #333333;
+}
+.navbar-nav a {
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: 700;
+	text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
+}
+.navbar-light .navbar-brand {
+	color: #fff;
+	font-size: 33px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+.navbar-light, .navbar-light .navbar-brand:hover {
+	color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #f4f7f4;
+	font-family: 'calluna', cursive;
+}
+.navbar-light, .navbar-light .navbar-nav .nav-link:hover {
+	color: rgb(211, 10, 10);
+}
+.navbar-toggler {
+	padding: 1px 4px;
+	font-size: 20px;
+	line-height: 0.5;
+	background: #fff;
+}
+
+.navbar {
+	background-color: rgb(239, 192, 63);
+}
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    background-color: #333333;
+}
+.mainHd{
+	font-family: 'calluna', cursive;
+}
+.title{
+    font-family: 'calluna', cursive;
+    font-weight: 100;
+}
+.card{
+    
+    background-color: #bb8416 !important;
+    border-radius: 10px;
+    margin-top: 5px;
+    width: 500px;
+    height: 450px;
+}
+
+.modal-header{
+    background-color: rgb(133, 216, 212);
+	font-family: 'calluna', cursive;
+}
+.modal-body{
+    background-color: rgb(192, 248, 248);
+	font-family: 'Wix Madefor Display', sans-serif;
+}
+.modal-footer{
+    background-color: rgb(179, 227, 243) !important;
+	font-family: 'calluna', cursive;
+}
+.body-text{
+	font-family: 'Wix Madefor Display', sans-serif;
+}
+.footer-title{
+    font-size: 20px;
+}
+footer {
+	background: #e7e7ee;
+	padding-top: 50px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+
+}
+.tourisminmyanmar{
+	color: rgb(226, 137, 29);
+	font-weight: 900;
+}
+a:hover{
+	color: rgb(5, 138, 25);
+}
+.Information{
+	color: rgb(216, 185, 8);
+	font-weight: bolder;
+	font-size: 20px;
+}
+

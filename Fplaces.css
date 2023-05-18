@@ -1,0 +1,129 @@
+
+body {
+	font-family: 'Roboto Slab', serif;
+   
+}
+.Header{
+    margin-top: 70px;
+}
+.mainHd{
+	font-family: 'calluna', cursive;
+}
+.fontstyle{
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+.navbar-nav a {
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: 700;
+	text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
+}
+.navbar-light .navbar-brand {
+	color: #fff;
+	font-size: 33px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+.navbar-light, .navbar-light .navbar-brand:hover {
+	color: #fff;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #f4f7f4;
+	font-family: 'calluna', cursive;
+}
+.navbar-light, .navbar-light .navbar-nav .nav-link:hover {
+	color: rgb(211, 10, 10);
+}
+.navbar-toggler {
+	padding: 1px 4px;
+	font-size: 20px;
+	line-height: 0.5;
+	background: #fff;
+}
+
+.navbar {
+	background-color: rgb(239, 192, 63);
+}
+
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    background-color: #a1a1a1;
+}
+
+.column{
+    width: 400px;
+    margin: 20px;
+}
+.card{
+    padding: 20px;
+    background-color: #333333 !important;
+    border-radius: 5px;
+    margin-top: 5px;
+    box-shadow: 1px 1px 2px #d2d7d2;
+    width: auto;
+    height: auto;
+    text-align: justify;
+}
+.cardTitle{
+    font-size: 25px;
+    margin-bottom: 16px;
+    text-align: center;
+    font-family: 'calluna', cursive;
+
+}
+.thumbContainer{
+    margin-bottom: 18px;
+
+}
+
+.thumbnail{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 2px 2px #fcdabb;
+	height: 450px;
+	transition: 0.3s;
+}
+.thumbnail:hover{
+	transform: scale(1.15);
+}
+footer {
+	background: #e5e784;
+	padding: 10px 0;
+	margin-top: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+
+}
+.footer-title{
+    font-size: 20px;
+}
+footer {
+	background: #e7e7ee;
+	padding-top: 50px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+
+}
+.tourisminmyanmar{
+	color: rgb(226, 137, 29);
+	font-weight: 900;
+}
+a:hover{
+	color: rgb(5, 138, 25);
+}
+.Information{
+	color: rgb(216, 185, 8);
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+    
+
+
+
+
+
+
+

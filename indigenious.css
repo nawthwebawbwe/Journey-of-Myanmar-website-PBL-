@@ -1,0 +1,99 @@
+
+body {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #a1a1a1 !important;
+   
+}
+.Header{
+    margin-top: 60px;
+}
+.mainHd{
+	font-family: 'calluna', cursive;
+}
+.navbar-nav a {
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: 700;
+	text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
+}
+.navbar-light .navbar-brand {
+	color: #fff;
+	font-size: 33px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+.navbar-light, .navbar-light .navbar-brand:hover {
+	color: #fff;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #f4f7f4;
+	font-family: 'calluna', cursive;
+}
+.navbar-light, .navbar-light .navbar-nav .nav-link:hover {
+	color: rgb(211, 10, 10);
+}
+.navbar-toggler {
+	padding: 1px 4px;
+	font-size: 20px;
+	line-height: 0.5;
+	background: #fff;
+}
+
+.navbar {
+	background-color: rgb(239, 192, 63);
+}
+.Himage{
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: #fff 2px;
+}
+.card{
+    background-color:  #333333!important;
+	transition: all 0.3s;
+}
+.card:hover{
+	transform: scale(1.15);
+}
+.card-text{
+    text-align: justify;
+	font-family: 'Wix Madefor Display', sans-serif;
+}
+.first-text{
+	text-align:center;
+	font-family: 'Wix Madefor Display', sans-serif;
+}
+.footer-title{
+    font-size: 20px;
+}
+.card-title{
+    font-family: 'calluna', cursive;
+}
+.title{
+	font-size: 50px;
+	font-family: 'calluna', cursive;
+}
+.footer-link{
+	color: #000;
+	font-size: 16px;
+
+}
+footer {
+	background: #e7e7ee;
+	padding-top: 50px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+
+}
+.tourisminmyanmar{
+	color: rgb(226, 137, 29);
+	font-weight: 900;
+}
+a:hover{
+	color: rgb(5, 138, 25);
+}
+.Information{
+	color: rgb(216, 185, 8);
+	font-weight: bolder;
+	font-size: 20px;
+}
