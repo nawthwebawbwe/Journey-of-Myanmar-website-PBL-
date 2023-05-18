@@ -58,15 +58,15 @@ body {
 }
 
 .modal-header{
-    background-color: rgb(133, 216, 212);
+    background-color: rgb(205, 200, 123);
 	font-family: 'calluna', cursive;
 }
 .modal-body{
-    background-color: rgb(192, 248, 248);
+    background-color: rgb(225, 228, 202);
 	font-family: 'Wix Madefor Display', sans-serif;
 }
 .modal-footer{
-    background-color: rgb(179, 227, 243) !important;
+    background-color: rgb(216, 228, 168) !important;
 	font-family: 'calluna', cursive;
 }
 .body-text{
